@@ -8,7 +8,7 @@ $(function() {
 	    // hash: '%23jquery OR %23css'			    
 	    search: 'govdelivery', //leave this blank if you want to show user's tweet
 	    user: '', //username
-	    numTweets: 50, //number of tweets
+	    numTweets: 75, //number of tweets
 	    appendTo: '#jstwitter',
 	    useGridalicious: false,
 	    template: '<div class="tweet-wrapper"><a href="{URL}" id="tooltip-{ID}" title="{USER}: {TEXT}" target="_blank">{AVATAR}</a></div>',
